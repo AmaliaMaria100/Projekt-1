@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studenternes Fitness Guide</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>SFG</h1>
+        <nav>
+            <ul>
+                <li><a href="#mad">Sund mad på faten</a></li>
+                <li><a href="#form">Kom i god form</a></li>
+                <li><a href="#gruppetraening">Gruppetræning</a></li>
+                <li><a href="#motion">Motion udendørs</a></li>
+                <li><a href="#perfektheld">Perfektheldskultur</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Studenternes Fitness Guide</h2>
+            <a href="#tilmelding" class="btn">Tilmeld NU</a>
+        </div>
+    </section>
+
+    <section class="services">
+        <div class="service">
+            <a href="#madplan">
+                <img src="madplan-icon.png" alt="Gratis Madplan">
+                <h3>Gratis Madplan</h3>
+            </a>
+        </div>
+        <div class="service">
+            <a href="#program">
+                <img src="program-icon.png" alt="Gratis Program">
+                <h3>Gratis Program</h3>
+            </a>
+        </div>
+        <div class="service">
+            <a href="#psykisk">
+                <img src="psykisk-icon.png" alt="Psykisk Helbred">
+                <h3>Psykisk Helbred</h3>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Studenternes Fitness Guide</p>
+        <div class="social-icons">
+            <a href="https://www.instagram.com"><img src="instagram-icon.png" alt="Instagram"></a>
+            <a href="https://www.facebook.com"><img src="facebook-icon.png" alt="Facebook"></a>
+        </div>
+    </footer>
+</body>
+</html>
